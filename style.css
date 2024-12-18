@@ -1,0 +1,86 @@
+
+
+
+#nav-bar-head p:hover{
+  text-decoration: underline ;
+}
+
+
+
+
+
+.most-wanted-container{
+    padding: 3px;
+}
+
+.most-wanted-container i{
+    position: relative;
+    left: 250px;
+    bottom: 40px;
+    width: 20%;
+    font-size: 30px;
+   
+}
+
+  
+  .heart-icon:hover {
+    color: red; /* Change body background to red on hover */
+    transition-duration: 1s;
+    
+    
+  }
+
+  .group-img{
+    width: 30%;
+    margin-left: 40px;
+
+  }
+
+  .limited{
+    width: 96%;
+   display: flex;
+    padding: 20px;
+    align-items: center; 
+        justify-content: space-between;
+        background-color: black;
+        margin-left: 20px;
+
+
+  }
+.text-container{
+  
+   
+    margin-right: 50px;
+}
+
+.foot-Navbar{
+  padding: 10px;
+  margin: 20px;
+  text-align: center;
+}
+ 
+.cloths-types{
+  margin-top: 50px;
+ 
+}
+
+
+.vertical-line{
+  position: absolute;
+    top: 160px;
+   left: 200px;
+    height: 100%;
+    border: 2px solid #1D232C;
+    
+    
+}
+
+.v-line {
+  --tw-bg-opacity: 1;
+  background-color: rgba(0, 0, 0, var(--tw-bg-opacity));
+  margin-top: 20px;
+}
+.w-px {
+  width: 3px;
+}
+
